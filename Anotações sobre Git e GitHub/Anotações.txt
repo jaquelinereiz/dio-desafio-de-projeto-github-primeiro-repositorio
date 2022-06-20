@@ -1,0 +1,87 @@
+O QUE É GIT?
+
+	O git foi criado pelo engenheiro de software Linus Torvalds e consiste em ser um Sistema de Controle de Versões Distribuído(DVCS).
+
+	Possue a função de registrar qualquer alteração feita em um código, armazenando as informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+	Este tipo de sistema também simplifica muito o processo de compartilhamento de um projeto com um time ou com outros(as) programadores(as), por exemplo.
+
+
+
+QUAL A VANTAGEM DE USAR O GIT?
+
+	Uma das maiores vantagens de usar o GIT é a economia de tempo e recursos, uma vez que a consulta de diferentes versões de uma mesma aplicação é muito recorrente no trabalho do(a) programador(a).
+
+
+
+ALGUNS CONCEITOS DO GIT:
+
+- Repositóro:
+	são os ambientes criados para armazenar seus códigos
+
+- Branch:
+	é o nome dado a uma versão (ramificação) do projeto.
+
+- Fork: 
+	é uma funcionalidade útil quando um membro da equipe precisa pegar um código público para manuseá-lo em um editor de código local ou interno.
+
+
+
+PRINCIPAIS COMANDOS DO GIT:
+
+- Init:
+	este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
+
+- Clone:
+	este comando clona o código de um repositório para sua manipulação em outro ambiente;
+
+- Commit:
+	este comando move os arquivos da state area para um repositório local;
+
+- Add:
+	este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
+
+- Push:
+	este comando envia arquivos de um repositório local para um repositório remoto.
+
+- Pull:
+	ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+
+- Merge:
+	este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+
+-  Log:
+	este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
+
+
+
+O QUE É GITHUB?
+
+	O GitHub é muito famoso entre a comnunidade de programadores em todo o mundo, ele é uma espécie de rede social voltada para profissionais de TI e a tecnologia que o sustenta é o Git.
+	Em outras palavras, GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
+
+	O GitHub armazena todos estes dados em uma nuvem e você pode acessá-los de onde estiver: basta logar-se no site em qualquer navegador.
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+
+PARA QUE SERVE O GITHUB?
+
+	O GitHub serve, fundamentalmente, para facilitar o controle de versões de um software ou aplicação.
+
+
+
+QUAIS AS VANTAGENS DE USAR O GITHUB?
+
+1. Possibilidade de acompanhar e colaborar com projetos de diferentes equipes;
+
+2. Aprender programação na prática ao observar o avanço do desenvolvimento de aplicações de terceiros;
+
+3. Participar de discussões a respeito de novas tecnologias;
+
+4. Obter auxílio de outros programadores para resolver problemas relacionados a seus projetos;
+
+5. Controlar as diferentes versões de um código com armazenamento em nuvem;
+
+6. Registrar ações e projetos desenvolvidos por você em uma espécie de portfólio online, etc.
