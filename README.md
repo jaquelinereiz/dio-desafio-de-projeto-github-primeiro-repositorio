@@ -1,2 +1,2 @@
-# Repositório do Desafio de Projeto sobre o Git e GitHub da DIO
-Desafio de Projeto sobre o Git e GitHub do curso da DIO.me
+# Desafio de Projeto sobre o Git e GitHub da DIO
+Repositório criado para o Desafio de Projeto sobre o Git e GitHub do curso da DIO.me
